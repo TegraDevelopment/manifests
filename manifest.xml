@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- Remotes -->
-
  <!-- Devices -->
   <!-- molly -->
    <project name="TegraDevelopment/android_device_google_molly" path="device/google/molly" remote="private" revision="cm-14.1" />
@@ -13,5 +12,4 @@
 
 <!-- Proprietary Blobs -->
  <project name="TegraDevelopment/proprietary_vendor_google_molly" path="vendor/google/molly" remote="private" revision="cm-14.1"/>
-
 </manifest>
