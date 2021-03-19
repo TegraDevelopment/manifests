@@ -4,14 +4,14 @@
 
  <!-- Devices -->
   <!-- molly -->
-   <project name="TegraDevelopment/android_device_google_molly" path="device/google/molly" remote="private" revision="cm-14.1-new" />
-   <project name="TegraDevelopment/android_kernel_google_molly" path="kernel/google/molly" remote="private" revision="cm-14.1-new" />
+   <project name="TegraDevelopment/android_device_google_molly" path="device/google/molly" remote="private" revision="cm-14.1" />
+   <project name="TegraDevelopment/android_kernel_google_molly" path="kernel/google/molly" remote="private" revision="cm-14.1" />
 
 <!-- Hardware -->
  <!-- Marvell -->
-  <project name="PureNexusProject-Legacy/android_hardware_marvell_wlan" path="hardware/marvell/wlan" remote="github" revision="mm2" />
+  <project name="TegraDevelopment/android_hardware_marvell_wlan" path="hardware/marvell/wlan" remote="github" revision="cm-14.1" />
 
 <!-- Proprietary Blobs -->
- <project name="TegraDevelopment/proprietary_vendor_google_molly" path="vendor/google/molly" remote="private" revision="cm-14.1-new"/>
+ <project name="TegraDevelopment/proprietary_vendor_google_molly" path="vendor/google/molly" remote="private" revision="cm-14.1"/>
 
 </manifest>
