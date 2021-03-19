@@ -9,7 +9,7 @@
 
 <!-- Hardware -->
  <!-- Marvell -->
-  <project name="TegraDevelopment/android_hardware_marvell_wlan" path="hardware/marvell/wlan" remote="github" revision="cm-14.1" />
+  <project name="TegraDevelopment/android_hardware_marvell_wlan" path="hardware/marvell/wlan" remote="private" revision="cm-14.1" />
 
 <!-- Proprietary Blobs -->
  <project name="TegraDevelopment/proprietary_vendor_google_molly" path="vendor/google/molly" remote="private" revision="cm-14.1"/>
